@@ -9,44 +9,54 @@
 ---
 
 ## 🚀 Descripción del Proyecto
-Este proyecto es una **Landing Page Profesional** diseñada bajo un concepto de "Terminal de Comandos". Es una interfaz modular que organiza mi trayectoria como Desarrollador en diferentes capas de información, optimizada para un rendimiento máximo.
+Este proyecto es una **Landing Page para un Portafolio Profesional** diseñada bajo un concepto de "Terminal de Comandos". Es una interfaz modular que organiza la trayectoria como Desarrollador o Profesional en diferentes capas de información, optimizada para un rendimiento máximo.
 
-Repositorio oficial del despliegue estático de mi portafolio profesional. Diseñado con una estética de terminal para reflejar mi pasión por el desarrollo y la lógica de sistemas.
+---
 
+### ✨ Características Principales
+* **Diseño Responsivo:** Adaptabilidad total desde smartphones hasta pantallas 4K.
+* **Estética Minimalista:** Uso de tipografías monoespaciadas y contrastes altos para una lectura clara.
+* **Altamente Interactivo:** Efectos visuales que reaccionan al usuario.
+* **Arquitectura Estática:** Despliegue optimizado para una carga instantánea sin necesidad de base de datos activa.
 
+---
 
-### 🛠️ Stack Tecnológico
-* **Diseño y Maquetación:** WordPress + Elementor
-* **Despliegue:** GitHub Pages
+## 🏗️ Estructura del Sistema
+El portafolio está segmentado en módulos lógicos para una navegación intuitiva:
+1.  **💻 Proyectos:** Galería de soluciones técnicas desarrolladas.
+2.  **👤 Sobre mí:** Perfil profesional y trayectoria.
+3.  **🎓 Estudios:** Formación académica y certificaciones técnicas.
+4.  **✍️ Blog & Voz:** Espacio de pensamiento y actualizaciones.
+5.  **📩 Contáctame:** Canales directos de conexión profesional.
+  
+---
+
+## 🛠️ Stack y Desarrollo
+Este proyecto es una muestra de cómo modernizar herramientas tradicionales:
 * **Entorno de Trabajo:** Linux (Ubuntu/Mint) + Local Wp + Git
-* **Herramientas de Exportación:** Simply Static
+* **Diseño Base:** Construido en WordPress con Elementor.
+* **Exportación:** Convertido a HTML/CSS/JS puro mediante **Simply Static**.
+* **Imágenes:** Optimizadas en formato **WebP** para máximo rendimiento.
+* **Hosting:** Servido globalmente por **GitHub Pages**.
 
----
+--- 
 
-### 📂 Proyectos Destacados
+## 🛡️ Propiedad Intelectual y Uso del Código
 
-1. **PORTAFOLIO_MATRIX:** Interfaz reactiva con estética retro-futurista.
-2. **E-COMMERCE_INDUSTRIAL_CORE:** Prueba técnica de arquitectura web.
-3. **SECRET_FRIEND_LOGIC:** Algoritmo de sorteo optimizado en JavaScript.
-   
+Este repositorio es de acceso público bajo las siguientes consideraciones:
 
----
+* **💻 Código y Estructura:** Eres libre de clonar este repositorio para estudiar la arquitectura de archivos estáticos (`wp-content`, `wp-includes`) y usar la lógica del sistema como base para tus propios experimentos bajo la [Licencia MIT](./LICENSE).
+ <br> <br>Comando para Clonar el Repositorio:
+ ```bash
+   git clone https://github.com/harold-dev-code/harold-dev-code.github.io.git
+   ```
+* **🚫 PROPIEDAD EXCLUSIVA (CONTENIDO PERSONAL):** Todas las fotografías, imágenes personales, Proyectos, Certificados y textos biográficos son de **propiedad exclusiva**.
+  <br>
+   ⚠️ Queda estrictamente **prohibida su reproducción**, distribución o uso comercial sin autorización previa del autor. El uso no autorizado de certificados o identidad personal puede acarrear consecuencias legales bajo la normativa de protección de datos y propiedad intelectual. están protegidos por leyes de **derechos de autor**.
+  
 
-### 🎓 Certificaciones
-* **Desarrollo Web Full Stack** - Talento Tech (159 horas).
-* **Análisis de Datos** - Alura Latam.
+* **⚖️ Respeto de Autoría:** Si decides usar el diseño base, agradezco el reconocimiento de la autoría original.
 
----
-
-### ⚙️ Instrucciones de Mantenimiento (Linux Terminal)
-Para actualizar el portafolio desde la consola:
-
-1. Clonar el repositorio:
-   `git clone https://github.com/harold-dev-code/harold-dev-code.github.io.git`
-2. Subir cambios masivos:
-   `git add .`
-   `git commit -m "update: nueva versión del sistema"`
-   `git push origin main`
 
 ---
 
