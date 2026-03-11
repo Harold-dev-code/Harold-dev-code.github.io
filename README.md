@@ -52,11 +52,10 @@ Este repositorio es de acceso público bajo las siguientes consideraciones:
    ```
 * **🚫 PROPIEDAD EXCLUSIVA (CONTENIDO PERSONAL):** Todas las fotografías, imágenes personales, Proyectos, Certificados y textos biográficos son de **propiedad exclusiva**.
   <br>
-   ⚠️ Queda estrictamente **prohibida su reproducción**, distribución o uso comercial sin autorización previa del autor. El uso no autorizado de certificados o identidad personal puede acarrear consecuencias legales bajo la normativa de protección de datos y propiedad intelectual. están protegidos por leyes de **derechos de autor**.
+   ⚠️ Queda estrictamente **prohibida su reproducción**, distribución o uso comercial sin autorización previa del autor. El uso no autorizado de certificados o identidad personal puede acarrear consecuencias legales bajo la normativa de protección de datos y propiedad intelectual. están protegidos por leyes de derechos de autor.  
   
 
-* **⚖️ Respeto de Autoría:** Si decides usar el diseño base, agradezco el reconocimiento de la autoría original.
-
+* **⚖️ Respeto de Autoría:** Si decides usar el diseño base, agradezco el reconocimiento de la autoría original.**© 2026 Harold-dev-cod**
 
 ---
 
