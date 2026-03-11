@@ -61,7 +61,7 @@ Este repositorio es de acceso público bajo las siguientes consideraciones:
 
 ### 📩 Contacto
 * **Email:** [harold.s.f@hotmail.com](mailto:harold.s.f@hotmail.com)
-* **Ubicación:** Armenia, Quindío, Colombia.
+* **LinkedIn:** https://www.linkedin.com/in/harold-agudelo-rivera/
+* **Ubicación:** Cartago, Valle, Colombia.
 
----
-_SISTEMA OPERATIVO: ONLINE_ 🟢
+
