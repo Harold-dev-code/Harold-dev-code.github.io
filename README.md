@@ -13,7 +13,7 @@ Este proyecto es una **Landing Page para un Portafolio Profesional** diseñada b
 
 ---
 
-### ✨ Características Principales
+## ✨ Características Principales
 * **Diseño Responsivo:** Adaptabilidad total desde smartphones hasta pantallas 4K.
 * **Estética Minimalista:** Uso de tipografías monoespaciadas y contrastes altos para una lectura clara.
 * **Altamente Interactivo:** Efectos visuales que reaccionan al usuario.
@@ -55,11 +55,21 @@ Este repositorio es de acceso público bajo las siguientes consideraciones:
    ⚠️ Queda estrictamente **prohibida su reproducción**, distribución o uso comercial sin autorización previa del autor. El uso no autorizado de certificados o identidad personal puede acarrear consecuencias legales bajo la normativa de protección de datos y propiedad intelectual. están protegidos por leyes de derechos de autor.  
   
 
-* **⚖️ Respeto de Autoría:** Si decides usar el diseño base, agradezco el reconocimiento de la autoría original.**© 2026 Harold-dev-cod**
+* **⚖️ Respeto de Autoría:** Si decides usar el diseño base, agradezco el reconocimiento de la autoría original.<br><br>**© 2026 Harold-dev-cod**.<br>
+
+---
+## 🌐 ¡Visita mi sistema en vivo!
+<p align="center">
+  <br>
+  <a href="https://harold-dev-code.github.io/">
+    <img src="https://img.shields.io/badge/DEPLOY-GITHUB_PAGES-ADFF2F?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  <br><br>
+</p>
 
 ---
 
-### 📩 Contacto
+## 📩 Contacto
 * **Email:** [harold.s.f@hotmail.com](mailto:harold.s.f@hotmail.com)
 * **LinkedIn:** https://www.linkedin.com/in/harold-agudelo-rivera/
 * **Ubicación:** Cartago, Valle, Colombia.
