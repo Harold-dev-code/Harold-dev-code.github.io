@@ -1173,9 +1173,13 @@ function toggleSection(id, event) {
     color: #000;
 }
 /* Estado en ejecución */
-.view-data progress-label:hover{
+.view-data.progress-label {
+    color: #ffcc00;
+    border-color: #ffcc00;
+}
+.view-data.progress-label:hover {
 	background: #ffcc00;
-    
+    color: #000;
 }
 
 .status-load {
@@ -1371,7 +1375,7 @@ function toggleSection(id, event) {
             <span class="status-ok">[CONN]</span>
             <span class="contact-label"><i class="fa-regular fa-envelope"></i></span>
             <span class="log-text">harold.s.f@hotmail.com</span>
-            <a href="mailto:harold.s.f@hotmail.com" target="_blank" class="view-data">[SEND_MAIL]</a>
+            <a href="mailto:harold.s.f@hotmail.com" class="view-data">[SEND_MAIL]</a>
         </div>
 
         <div class="contact-item">
